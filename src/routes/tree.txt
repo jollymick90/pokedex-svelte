@@ -1,0 +1,52 @@
+Elenco del percorso delle cartelle per il volume Volume
+Numero di serie del volume: 449D-3018
+D:.
+¦   +layout.svelte
+¦   +layout.ts
+¦   +page.svelte
+¦   +page.ts
+¦   tree.txt
+¦   
++---app
+¦   ¦   +layout.svelte
+¦   ¦   +page.svelte
+¦   ¦   
+¦   +---fiftyanimations
+¦   ¦       +page.svelte
+¦   ¦       
+¦   +---foldertree
+¦   ¦       +page.svelte
+¦   ¦       
+¦   +---kpistats
+¦   ¦       +page.svelte
+¦   ¦       
+¦   +---realtimes
+¦   ¦       +page.svelte
+¦   ¦       
+¦   +---tabletest
+¦           +page.svelte
+¦           
++---sandbox
+    ¦   +layout.svelte
+    ¦   +page.svelte
+    ¦   
+    +---table-full-csr-test
+    ¦       +page.svelte
+    ¦       +page.ts
+    ¦       
+    +---table-full-ssg-test
+    ¦       +page.server.ts
+    ¦       +page.svelte
+    ¦       
+    +---table-full-ssr-test
+    ¦       +page.server.ts
+    ¦       +page.svelte
+    ¦       
+    +---table-test
+    ¦       +page.svelte
+    ¦       +page.ts
+    ¦       
+    +---table-test-v2
+            +page.svelte
+            +page.ts
+            
